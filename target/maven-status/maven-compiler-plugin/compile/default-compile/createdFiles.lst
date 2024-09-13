@@ -1,0 +1,9 @@
+com\mycompany\jaxrs\resources\JmsConsumerServlet.class
+com\mycompany\jaxrs\resources\ConvertHtml.class
+com\mycompany\jaxrs\resources\JmsConnection.class
+com\mycompany\jaxrs\resources\ConvertPdf.class
+com\mycompany\jaxrs\resources\Converter.class
+com\mycompany\jaxrs\resources\RestApplication.class
+com\mycompany\jaxrs\resources\JmxConverterMBean.class
+com\mycompany\jaxrs\resources\JmxConverter.class
+com\mycompany\jaxrs\JAXRSConfiguration.class
